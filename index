@@ -1,133 +1,109 @@
-# Privacy Policy for Vixit Studio
+<!DOCTYPE html>
+<html>
+<head>
+<title>Privacy Policy - Vixit Studio</title>
+<meta charset="UTF-8">
+</head>
+<body style="max-width: 800px; margin: auto; font-family: Arial; line-height: 1.6;">
 
-**Last Updated:** January 21, 2026
+<h1>Privacy Policy for Vixit Studio</h1>
+<p><strong>Last updated:</strong> January 21, 2026</p>
 
-## 1. Introduction
+<p>
+Vixit Studio (“the App”) is developed by Vixit Studio (“we,” “our,” or “us”).
+We are committed to protecting your privacy. This Privacy Policy explains how
+the App handles information when you use it.
+</p>
 
-Welcome to **Vixit Studio** (“we,” “our,” or “us”).  
-We respect your privacy and are committed to protecting it.
+<h2>1. Personal Data Collection</h2>
+<p>
+The App does <strong>not</strong> collect, store, share, or transmit any personally
+identifiable information such as your name, email address, or phone number.
+</p>
 
-This Privacy Policy explains how our Android application (the **“App”**) handles information when you use our services. By using the App, you agree to the practices described in this policy.
+<h2>2. Media and Local Processing</h2>
+<p>
+Vixit Studio is a video editing and conversion tool. All video, audio, and image
+processing (including conversion, compression, merging, and reversing) is
+performed <strong>locally on your device</strong> using libraries such as FFmpeg.
+</p>
+<p>
+Your media files are <strong>never uploaded</strong> to our servers or to any third-party
+cloud services.
+</p>
 
----
+<h2>3. Usage Data and Advertising</h2>
+<p>
+The App may use third-party services (such as Google AdMob) to display
+advertisements and improve app performance. These services may collect
+non-personally identifiable information, including:
+</p>
+<ul>
+  <li>Device type and model</li>
+  <li>Operating system version</li>
+  <li>Advertising ID (AAID)</li>
+  <li>Network connection type</li>
+  <li>General app usage data and crash reports</li>
+</ul>
 
-## 2. Information We Collect
+<h2>4. Permissions</h2>
+<p>The App may request the following permissions:</p>
+<ul>
+  <li>
+    <strong>Media Access (Photos / Videos / Audio or Storage):</strong>
+    To read media files and save edited results to your device.
+  </li>
+  <li>
+    <strong>Notifications:</strong>
+    To notify you when long-running tasks such as video exports are completed.
+  </li>
+  <li>
+    <strong>Foreground Service & Wake Lock:</strong>
+    To allow uninterrupted video processing in the background.
+  </li>
+  <li>
+    <strong>Internet:</strong>
+    Used only for displaying ads and checking for updates. Media files are never uploaded.
+  </li>
+</ul>
 
-### 2.1 Personal Information
+<h2>5. Third-Party Services</h2>
+<p>
+The App uses Google AdMob for advertising and Google User Messaging Platform (UMP)
+to collect user consent where required by law (such as GDPR in the EEA and UK).
+</p>
+<p>
+Google Privacy Policy:
+<a href="https://policies.google.com/privacy" target="_blank">
+https://policies.google.com/privacy
+</a>
+</p>
 
-We **do not collect, store, or transmit** any personally identifiable information (PII), such as:
-- Name
-- Email address
-- Phone number
+<h2>6. Data Security</h2>
+<p>
+We take reasonable measures to protect your data. Since all media processing is
+performed offline on your device, your files remain under your control at all times.
+</p>
 
----
+<h2>7. Children’s Privacy</h2>
+<p>
+The App is not intended for children under the age of 13. We do not knowingly
+collect personal information from children.
+</p>
 
-### 2.2 Media and Files
+<h2>8. Changes to This Policy</h2>
+<p>
+We may update this Privacy Policy from time to time. Any changes will be posted
+on this page or within the App.
+</p>
 
-Vixit Studio is a video editing and conversion tool that processes media files stored on your device.
+<h2>9. Contact Us</h2>
+<p>
+If you have any questions about this Privacy Policy, you can contact us at:
+</p>
+<p>
+<strong>Email:</strong> support@vixitstudio.com
+</p>
 
-- **Local Processing Only:**  
-  All video, audio, and image editing operations (including conversion, compression, merging, and reversing) are performed **entirely on your device** using local libraries such as **FFmpeg**.
-
-- **No Uploads:**  
-  Your media files are **never uploaded** to our servers or to any third-party cloud services.
-
----
-
-### 2.3 Usage Data and Diagnostics
-
-We may use third-party services (such as advertising or analytics providers) that collect **non-personally identifiable information** to help improve app performance and display ads.
-
-This data may include:
-- Device type and model
-- Operating system version
-- Advertising ID (AAID)
-- Network connection type
-- General app usage data (e.g., session statistics, crash reports)
-
----
-
-## 3. Permissions We Request
-
-The App requests only the permissions necessary to function properly:
-
-- **Media Access (Photos / Videos / Audio or Read & Write Storage):**  
-  Required to access your media files and save edited results to your device.
-
-- **Notifications (`POST_NOTIFICATIONS`):**  
-  Used to notify you when long-running tasks (such as video export) are completed.
-
-- **Foreground Service (`FOREGROUND_SERVICE`, `FOREGROUND_SERVICE_MEDIA_PROCESSING`):**  
-  Allows the App to continue processing videos in the background without interruption.
-
-- **Wake Lock (`WAKE_LOCK`):**  
-  Prevents the device from sleeping during intensive video processing.
-
-- **Internet (`INTERNET`):**  
-  Used **only** for displaying advertisements and checking for app updates.  
-  **Media files are never uploaded.**
-
----
-
-## 4. Third-Party Services
-
-### 4.1 Google AdMob
-
-We use **Google AdMob** to display advertisements.
-
-Google may collect and use data such as your device’s advertising ID to show relevant ads.
-
-- Google Privacy Policy:  
-  https://policies.google.com/privacy
-
-You can manage ad personalization through your device settings or via the consent form shown in the App (where legally required).
-
----
-
-### 4.2 Google User Messaging Platform (UMP)
-
-We use **Google User Messaging Platform (UMP)** to collect user consent for personalized advertising in regions where required by law (such as the EEA and the UK), in compliance with **GDPR**.
-
----
-
-## 5. Data Security
-
-We take reasonable measures to protect your data:
-
-- **Offline Processing:**  
-  Your media files stay on your device at all times.
-
-- **Secure Libraries:**  
-  We rely on trusted, industry-standard libraries (such as FFmpeg) for safe and efficient processing.
-
----
-
-## 6. Children’s Privacy
-
-The App is **not intended for children under the age of 13**.
-
-We do not knowingly collect personal information from children.  
-If you believe a child has provided personal data, please contact us so we can take appropriate action.
-
----
-
-## 7. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time.
-
-Any changes will be posted:
-- Within the App, or
-- On the app store listing or associated repository
-
-Please review this policy periodically.
-
----
-
-## 8. Contact Us
-
-If you have any questions or concerns about this Privacy Policy, please contact us:
-
-**Email:** nabin30217@gmail.com  
-
-
----
+</body>
+</html>
